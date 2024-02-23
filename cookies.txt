@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wpdemo.wensolutions.com	TRUE	/	FALSE	1999999999	PHPSESSID	5vvclj1nut7hfvlu7l2sill9th
+wpdemo.wensolutions.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+wpdemo.wensolutions.com	TRUE	/	FALSE	1999999999	wp_travel_session	06e3245bba238bcc3c71988063fbd286%7C%7C1708687279%7C%7C1708686919
+

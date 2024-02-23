@@ -1,0 +1,98 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Feb 2024 10:46:43 at https://wpdemo.wensolutions.com/travel-joy-pro/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wpdemo.wensolutions.com/travel-joy-pro/ -O1 "C:\Users\WireShark\OneDrive\Desktop\C Play Ground\WP Travell pro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:50:14	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/beautifully-beaches-in-mexico//
+10:50:14	Warning: 	Redirected link is identical because of 'URL Hack' option: https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/beautifully-beaches-in-mexico// and https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/beautifully-beaches-in-mexico/
+10:50:14	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/beautifully-beaches-in-mexico// to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/beautifully-beaches-in-mexico/
+10:50:14	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/feelin-good-feel-best-at-miami//
+10:50:14	Warning: 	Redirected link is identical because of 'URL Hack' option: https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/feelin-good-feel-best-at-miami// and https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/feelin-good-feel-best-at-miami/
+10:50:14	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/feelin-good-feel-best-at-miami// to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/feelin-good-feel-best-at-miami/
+10:51:29	Error: 	"Bad Request" (400) at link https://wpdemo.wensolutions.com/travel-joy-pro/wp-admin/admin-ajax.php?action=rest-nonce (from https://wpdemo.wensolutions.com/travel-joy-pro/)
+10:51:36	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/$&/ (from https://wpdemo.wensolutions.com/travel-joy-pro/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0)
+10:51:36	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=747
+10:51:36	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=747 to https://wpdemo.wensolutions.com/travel-joy-pro/destination/
+10:51:37	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/2023/07/26/ (from https://wpdemo.wensolutions.com/travel-joy-pro/destination/)
+10:53:12	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=385
+10:53:12	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=385 to https://wpdemo.wensolutions.com/travel-joy-pro/trips-list-view/
+10:53:12	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/2021/07/21/ (from https://wpdemo.wensolutions.com/travel-joy-pro/trips-list-view/)
+10:53:12	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=383
+10:53:12	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=383 to https://wpdemo.wensolutions.com/travel-joy-pro/trips-grid-view/
+10:53:12	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=753
+10:53:12	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=753 to https://wpdemo.wensolutions.com/travel-joy-pro/trip-types/
+10:53:12	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=750
+10:53:12	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=750 to https://wpdemo.wensolutions.com/travel-joy-pro/activities/
+10:53:23	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=676
+10:53:23	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=676 to https://wpdemo.wensolutions.com/travel-joy-pro/shortcodes/
+10:53:23	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/2023/06/01/ (from https://wpdemo.wensolutions.com/travel-joy-pro/shortcodes/)
+10:53:23	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=624
+10:53:23	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=624 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/heavenly-beautiful-japan/
+10:53:36	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=618
+10:53:36	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=618 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/your-ultimate-russian-odyssey/
+10:53:38	Warning: 	Moved Permanently for wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/06/2020-12-08T191655Z_1682490904_RC27JK9UNWXQ_RTRMADP_3_RUSSIA-CITYSCAPE-scaled-e1634651141667_11zon-1.jpg
+10:53:38	Warning: 	Redirected link is identical because of 'URL Hack' option: wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/06/2020-12-08T191655Z_1682490904_RC27JK9UNWXQ_RTRMADP_3_RUSSIA-CITYSCAPE-scaled-e1634651141667_11zon-1.jpg and https://wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/06/2020-12-08T191655Z_1682490904_RC27JK9UNWXQ_RTRMADP_3_RUSSIA-CITYSCAPE-scaled-e1634651141667_11zon-1.jpg
+10:53:38	Warning: 	Warning moved treated for wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/06/2020-12-08T191655Z_1682490904_RC27JK9UNWXQ_RTRMADP_3_RUSSIA-CITYSCAPE-scaled-e1634651141667_11zon-1.jpg (real one is https://wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/06/2020-12-08T191655Z_1682490904_RC27JK9UNWXQ_RTRMADP_3_RUSSIA-CITYSCAPE-scaled-e1634651141667_11zon-1.jpg)
+10:53:38	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=612
+10:53:38	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=612 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/get-freaky-on-new-york-amazing-place/
+10:53:43	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=603
+10:53:43	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=603 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/magnificiant-thailand/
+10:53:45	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=610
+10:53:45	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=610 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/want-to-visit-las-vegas/
+10:53:47	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=622
+10:53:47	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=622 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/luxury-never-gets-enough-of-it-dubai-king-of-luxury/
+10:53:52	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1203
+10:53:52	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1203 to https://wpdemo.wensolutions.com/travel-joy-pro/2023/08/08/do-i-need-travel-insurance-during-my-international-visits/
+10:53:52	Error: 	"Method Not Allowed" (405) at link https://wpdemo.wensolutions.com/travel-joy-pro/xmlrpc.php (from https://wpdemo.wensolutions.com/travel-joy-pro/2023/08/08/do-i-need-travel-insurance-during-my-international-visits/)
+10:53:53	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1200
+10:53:53	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1200 to https://wpdemo.wensolutions.com/travel-joy-pro/2023/08/08/what-documents-do-i-need-for-international-travel-passport-visa/
+10:54:02	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/moment-timezone-utils.js must be loaded after moment-timezone.js (from https://wpdemo.wensolutions.com/travel-joy-pro/wp-includes/js/dist/date.min.js?ver=936c461ad5dce9c2c8ea)
+10:54:02	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/
+10:54:02	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/Moment Timezone requires Moment.js. See https://momentjs.com/timezone/docs/ to https://wpdemo.wensolutions.com/travel-joy-pro/Moment%20Timezone%20requires%20Moment.js.%20See%20https:/momentjs.com/timezone/docs/
+10:54:02	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/applewebkit/ (from https://wpdemo.wensolutions.com/travel-joy-pro/wp-includes/js/dist/components.min.js?ver=387d6480ace3103ccd8b)
+10:54:02	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/chrome/ (from https://wpdemo.wensolutions.com/travel-joy-pro/wp-includes/js/dist/components.min.js?ver=387d6480ace3103ccd8b)
+10:54:02	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/e+query_string (from https://wpdemo.wensolutions.com/travel-joy-pro/wp-content/plugins/wp-travel/app/assets/js/wp-travel-widgets.min.js?ver=8.1.0)
+10:54:02	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1149
+10:54:02	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1149 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/luxury-yachts-in-california/
+10:54:14	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1541
+10:54:14	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1541 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/scuba-diving/
+10:54:21	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1168
+10:54:21	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1168 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/wiltshire-united-kingdom-skydiving/
+10:54:25	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=626
+10:54:25	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=626 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/journey-into-parisian-splendor/
+10:54:28	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=620
+10:54:28	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=620 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/unveiling-german-delights/
+10:54:32	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=616
+10:54:32	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=616 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/your-ultimate-spanish-escapade/
+10:54:34	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1538
+10:54:34	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1538 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/dhaulagiri/
+10:54:37	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1531
+10:54:37	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1531 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/lake-biwa/
+10:54:37	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1528
+10:54:37	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1528 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/trishuli-rafting/
+10:54:39	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1142
+10:54:39	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1142 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/everest-base-camp-trekking/
+10:54:42	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1136
+10:54:42	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1136 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/bhote-koshi-bungee-jumping/
+10:54:44	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1162
+10:54:44	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1162 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/dubai-museum-al-fahidi-fort/
+10:54:48	Warning: 	Moved Permanently for wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/08/HD-wallpaper-history-within-dubai-museum-and-al-fahidi-fort-historical-place-cool-places-to-visit-dubai.jpg
+10:54:48	Warning: 	Redirected link is identical because of 'URL Hack' option: wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/08/HD-wallpaper-history-within-dubai-museum-and-al-fahidi-fort-historical-place-cool-places-to-visit-dubai.jpg and https://wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/08/HD-wallpaper-history-within-dubai-museum-and-al-fahidi-fort-historical-place-cool-places-to-visit-dubai.jpg
+10:54:48	Warning: 	Warning moved treated for wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/08/HD-wallpaper-history-within-dubai-museum-and-al-fahidi-fort-historical-place-cool-places-to-visit-dubai.jpg (real one is https://wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/08/HD-wallpaper-history-within-dubai-museum-and-al-fahidi-fort-historical-place-cool-places-to-visit-dubai.jpg)
+10:54:48	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1534
+10:54:48	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1534 to https://wpdemo.wensolutions.com/travel-joy-pro/itinerary/skiing-in-zermatt/
+10:54:50	Warning: 	Moved Permanently for wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/10/SkierinZermattwiththeMatterhorninthebackground_GettyImages_mbbirdy-76ef68eb47a3461fa7ca53b905eb4baf.jpg
+10:54:50	Warning: 	Redirected link is identical because of 'URL Hack' option: wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/10/SkierinZermattwiththeMatterhorninthebackground_GettyImages_mbbirdy-76ef68eb47a3461fa7ca53b905eb4baf.jpg and https://wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/10/SkierinZermattwiththeMatterhorninthebackground_GettyImages_mbbirdy-76ef68eb47a3461fa7ca53b905eb4baf.jpg
+10:54:50	Warning: 	Warning moved treated for wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/10/SkierinZermattwiththeMatterhorninthebackground_GettyImages_mbbirdy-76ef68eb47a3461fa7ca53b905eb4baf.jpg (real one is https://wpdemo.wensolutions.com/travel-joy-pro/wp-content/uploads/sites/6/2023/10/SkierinZermattwiththeMatterhorninthebackground_GettyImages_mbbirdy-76ef68eb47a3461fa7ca53b905eb4baf.jpg)
+10:54:50	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=7
+10:54:50	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=7 to https://wpdemo.wensolutions.com/travel-joy-pro/privacy-policy/
+10:54:50	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/2021/03/15/ (from https://wpdemo.wensolutions.com/travel-joy-pro/privacy-policy/)
+10:54:50	Warning: 	Moved Permanently for https://wpdemo.wensolutions.com/travel-joy-pro/?p=1329
+10:54:50	Warning: 	File has moved from https://wpdemo.wensolutions.com/travel-joy-pro/?p=1329 to https://wpdemo.wensolutions.com/travel-joy-pro/test/
+10:54:50	Error: 	"Not Found" (404) at link https://wpdemo.wensolutions.com/travel-joy-pro/2023/08/28/ (from https://wpdemo.wensolutions.com/travel-joy-pro/test/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 7 seconds : 787 links scanned, 739 files written (72000466 bytes overall) [51456293 bytes received at 105659 bytes/sec], 29672884 bytes transferred using HTTP compression in 527 files, ratio 25%, 8.2 requests per connection
+(12 errors, 75 warnings, 0 messages)
